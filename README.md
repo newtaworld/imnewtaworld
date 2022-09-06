@@ -1,5 +1,5 @@
 ### hey there 
-<a href="https://www.instagram.com/michaelta9999/">
+<a href="https://www.instagram.com/ricequalitycontrol/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/newkta/">
