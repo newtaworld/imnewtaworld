@@ -10,7 +10,7 @@
 
 <br />
 
-hi, i'm [Khang Ta](), a passionate self-taught full stack web developer and a freelance software engineer from California. my passion for software lies with dreaming up ideas and making them come true. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Michael Andrew](), a passionate self-taught full stack web developer and a freelance software engineer from California. my passion for software lies with dreaming up ideas and making them come true. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
